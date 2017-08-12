@@ -1,5 +1,6 @@
-# web_dev_resources
+# Web Developer Resources
 A list of useful links, tutorials, videos and gists
+
 # Table of Contents
 - Figure out how to add table of contents
 
