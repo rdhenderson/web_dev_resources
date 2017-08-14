@@ -2,7 +2,17 @@
 A list of useful links, tutorials, videos and gists
 
 # Table of Contents
-- Figure out how to add table of contents
+- add table of contents
+
+# Javascript
+
+## Asychronous Code
+https://blog.patricktriest.com/what-is-async-await-why-should-you-care/
+
+# Security
+## User Authentication
+https://hackernoon.com/your-node-js-authentication-tutorial-is-wrong-f1a3bf831a46
+https://www.owasp.org/index.php/Forgot_Password_Cheat_Sheet
 
 # Design/Layout
 
