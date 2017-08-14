@@ -4,7 +4,10 @@ A list of useful links, tutorials, videos and gists
 # Table of Contents
 - add table of contents
 
-# Javascript
+# Learning Resources
+https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/edit#gid=1458779204
+
+# General Javascript
 
 ## Asychronous Code
 https://blog.patricktriest.com/what-is-async-await-why-should-you-care/
